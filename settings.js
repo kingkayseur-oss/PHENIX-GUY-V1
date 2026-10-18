@@ -4,11 +4,11 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "242065311655"
 global.ownername = "𝆺𝅥ࠡ㊀⃞꯭⎯꯭☘️ͯ͢ 𝆺𝅥⃕⃝˚🌊𝐌᷼𝐑⃪꯭᷼ 𝐊ᷧ𝐈ᷗ𝐍꯭𝐆꯭ 𝐊᷼𝐀⃪꯭᷼𝐘ᷧ𝐒ᷗ𝐄꯭𝐔꯭𝐑꯭ ֟֯፝𝐓꯭𝐇꯭𝐄꯭ ֟֯፝𝐆꯭𝐋꯭𝐈꯭𝐓꯭𝐂꯭𝐇꯭ ֟֯፝𝐃꯭𝐄꯭𝐕꯭꯭𝆭⧗⃪꯭ ⃞🍓×̷͜⃞𑩑▒𑩑"
-global.ytname = "YT: esteams"
+global.ytname = "YT: kingkayseur"
 global.socialm = "GitHub: kingkayseur"
 global.location = "Congo , Cross River, Calabar"
 
-global.ownernumber = '2348187637779'  //creator number
+global.ownernumber = '242065311655'  //creator number
 global.ownername = '𝆺𝅥ࠡ㊀⃞꯭⎯꯭☘️ͯ͢ 𝆺𝅥⃕⃝˚🌊𝐌᷼𝐑⃪꯭᷼ 𝐊ᷧ𝐈ᷗ𝐍꯭𝐆꯭ 𝐊᷼𝐀⃪꯭᷼𝐘ᷧ𝐒ᷗ𝐄꯭𝐔꯭𝐑꯭ ֟֯፝𝐓꯭𝐇꯭𝐄꯭ ֟֯፝𝐆꯭𝐋꯭𝐈꯭𝐓꯭𝐂꯭𝐇꯭ ֟֯፝𝐃꯭𝐄꯭𝐕꯭꯭𝆭⧗⃪꯭ ⃞🍓×̷͜⃞𑩑▒𑩑' //owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉-𝆭𝂅‌𝐏̤𝐇ׄ͟𝐄ֵᩘ𝐍ֿ‌︬𝐈𝐗ֺ࡙ࣨ͟×͜×𝐆ִֵ𝐔⃪ֺ𐇽𝐘⃪⃪ׅ֩ ˙𝂅‌‌V҉ 1҉' //name of the bot
 
@@ -21,7 +21,7 @@ global.themeemoji = '🍓'
 global.wm = PHENIX LAB."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
+global.link = 'https://whatsapp.com/channel/0029Vb8cfQn8V0te5K0atc1s'
 
 //custom prefix
 global.prefa = ['']
