@@ -1,11 +1,11 @@
-//base by ES-TEAMS TECH (Stinger-V1 Bot Inc.)
+//base by PHENIX LAB (Stinger-V1 Bot Inc.)
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @pesteams
-//Instagram: Unavailable 
-//Telegram: t.me/examsolutionteam
-//GitHub: @paskito
-//WhatsApp: +2349037524605
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@esteams
+//YouTube: @Kingkayseur
+//Instagram: kingkayseur
+//Telegram: t.me/PhenixGuy
+//GitHub: @kingkayseur
+//WhatsApp: +242065311655
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@kingkayseur
 
 const {
    spawn
